@@ -1,4 +1,4 @@
-#include "../include/rota.h"
+#include "rota.h"
 #include <iostream>
 
 using namespace std;
